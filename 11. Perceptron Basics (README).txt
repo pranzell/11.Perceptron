@@ -1,0 +1,3 @@
+11. Perceptron Basics
+
+This repository contains the basics of a Perceptron. Using some example data-sets, it shows how a perceptron works. Each data-set contains two attributes (X1, X2) with a target variable (Y). The model predicts and tells which models are linearly separable and which are not.
